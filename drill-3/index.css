@@ -1,0 +1,73 @@
+header {
+    background-color: grey;
+    height: 100px;
+}
+
+.bluebox {
+    background-color: rgb(60, 60, 255);
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top:25%;
+    left: 3%;
+}
+
+body {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.white {
+    background-color: white;
+    height: 300px;
+}
+
+.text {
+    padding: 2%;
+}
+
+.blue{
+    background-color: rgb(60, 60, 255);
+    height: 200px;
+
+}
+
+.lightgreen{
+    background-color: lightgreen;
+    height: 200px;
+
+}
+
+.lightyellow{
+    background-color: lightyellow;
+    height: 200px;
+
+}
+
+.bubble{
+    background-color: black;
+    float: right;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: sticky;
+    bottom: 5px;
+    right: 5px;
+}
+
+.question{
+    color: white;
+    font-size: 30px;
+    position: relative;
+    bottom: 40%;
+    left: 35%;
+}
+
+footer{
+    background-color: rgb(255, 255, 89);
+    height: 200px;
+    position: relative;
+    bottom: 1px;
+}
